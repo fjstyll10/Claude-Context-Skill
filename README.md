@@ -9,3 +9,4 @@ First, it walks you through a general context form: 16 questions across purpose,
 Secondly,it analyses your answers, identifies gaps, figures out what domain you're working in, and generates a targeted follow-up form with domain-specific questions.
 Finally,it compiles everything into a standardised 10-section context brief, shows you a summary to review, and hands the whole thing off to the skill-creator ready to go.
 Output:skills that work properly on the first pass, with fewer assumptions, fewer revisions, and fewer times repeating a version of "that's not what I meant"
+*** Any Advise/Improvments on the skill would be greatly appriciated, and please let me know if it was useful to you ***
