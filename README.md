@@ -11,9 +11,9 @@ It's an intake tool, a structured conversation that draws out everything the ski
 
 It has 3 main phases:
 
-First, it walks you through a general context form: 16 questions across purpose, triggers, inputs, outputs, process, constraints, and success criteria. 
+First, it walks you through an interactive general context form: 16 questions across purpose, triggers, inputs, outputs, process, constraints, and success criteria. 
 
-Secondly,it analyses your answers, identifies gaps, figures out what domain you're working in, and generates a targeted follow-up form with domain-specific questions.
+Secondly,it analyses your answers, identifies gaps, figures out what domain you're working in, and generates a targeted interactive follow-up form with domain-specific questions.
 
 Finally,it compiles everything into a standardised 10-section context brief, shows you a summary to review, and hands the whole thing off to the skill-creator ready to go.
 
